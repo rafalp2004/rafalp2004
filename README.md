@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/1214524084075896865/1360657924958978220/quote-if-you-are-not-embarrassed-by-the-first-version-of-your-product-you-ve-launched-too-reid-hoffman-52-9-0975.png?ex=67fbeaf1&is=67fa9971&hm=068bd604143ddd805f1e6ed16f37c7fe3111b0a88e654e47e09bae2bc88c7d1e&=&format=webp&quality=lossless&width=1063&height=500"  />
+  <img height="200" src="https://media.discordapp.net/attachments/1214524084075896865/1366885823475093624/quote-if-you-are-not-embarrassed-by-the-first-version-of-your-product-you-ve-launched-too-reid-hoffman-52-9-0975.png?ex=6812931f&is=6811419f&hm=eb364b96923c5b3ef4dc00f8f5ccd27d4594eb6103cbfa59e0b583eefdd972f5&=&format=webp&quality=lossless" />
 </div>
 
 ###
